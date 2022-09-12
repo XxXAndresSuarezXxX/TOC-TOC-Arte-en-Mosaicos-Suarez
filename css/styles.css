@@ -146,7 +146,7 @@ li a:hover{
 
 .main{
     margin-top: 25px;
-    background-image: url("./imagenes/fondos/Fondo.jpg");
+    background-image: url("../imagenes/fondos/Fondo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -413,7 +413,7 @@ h3{
      .main{
         margin-left: 5px;
         width: 280px;        
-        background-image: url("./imagenes/fondos/Fondo.jpg");
+        background-image: url("../imagenes/fondos/Fondo.jpg");
         margin-top: 25px;
         background-attachment: initial;
         background-size: cover;
@@ -696,7 +696,7 @@ legend{
      .main{
         margin-left: 20px;
         width: 440px;        
-        background-image: url("./imagenes/fondos/Fondo.jpg");
+        background-image: url("../imagenes/fondos/Fondo.jpg");
         margin-top: 25px;
         background-attachment: initial;
         background-size: cover;
@@ -988,7 +988,7 @@ legend{
      .main{
         margin-left: 20px;
         width: 730px;        
-        background-image: url("./imagenes/fondos/Fondo.jpg");
+        background-image: url("../imagenes/fondos/Fondo.jpg");
         margin-top: 25px;
         background-attachment: initial;
         background-size: cover;
@@ -1218,7 +1218,7 @@ legend{
      .main{
         margin-left: 20px;
         width: 920px;        
-        background-image: url("./imagenes/fondos/Fondo.jpg");
+        background-image: url("../imagenes/fondos/Fondo.jpg");
         margin-top: 25px;
         background-attachment: initial;
         background-size: cover;
