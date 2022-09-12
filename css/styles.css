@@ -146,7 +146,7 @@ li a:hover{
 
 .main{
     margin-top: 25px;
-    background-image: url("../Imagenes/Fondos/Fondo.jpg");
+    background-image: url("../imagenes/Fondos/Fondo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
